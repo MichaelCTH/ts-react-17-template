@@ -17,6 +17,8 @@ module.exports = {
   rules: {
     'no-use-before-define': 1,
     'react/react-in-jsx-scope': 0,
+    '@typescript-eslint/explicit-function-return-type': 2,
+    '@typescript-eslint/prefer-function-type': 2,
   },
   settings: {
     react: {
